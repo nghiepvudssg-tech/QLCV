@@ -1,0 +1,8 @@
+{
+  "name": "QLCV-1.0",
+  "description": "Ứng dụng tương tác quản lý, theo dõi và cập nhật tiến độ công việc hàng ngày theo phòng ban, nhân sự và trạng thái.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
